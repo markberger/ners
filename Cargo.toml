@@ -1,0 +1,8 @@
+[package]
+name = "ners"
+version = "0.0.1"
+authors = ["Mark J. Berger <mark.berger.j@gmail.com>"]
+
+[[bin]]
+name = "ners"
+path = "src/nes.rs"
